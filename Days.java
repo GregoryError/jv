@@ -3,6 +3,7 @@ import java.sql.SQLOutput;
 public class Days {
     public static void main(String[] args) {
         int seconds = 500042;
+
         final int secsInaMinute = 60;
         final int secsInaHour = (60 * 60);
         final int secsInaDay = secsInaHour * 24;
